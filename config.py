@@ -5,7 +5,7 @@ username = "username for LMS"
 password = "password for LMS"
 url_lms = "full path to lms like http://192.168.1.2"
 
-slownik_danych_logowania_karolinka = {
+slownik_danych_logowania_1 = {
 			"id": 1,
 			"host": "adres_ip",
 			"user": "user_name",
@@ -14,7 +14,7 @@ slownik_danych_logowania_karolinka = {
 			"name":"name for olt"
 
 		}
-slownik_danych_logowania_biuro = {
+slownik_danych_logowania_2 = {
 			"id": 2,
 			"host": "second adres ip",
 			"user": "user_name",
@@ -26,8 +26,8 @@ slownik_danych_logowania_biuro = {
 
 #data log in  to olt
 lista_na_slowniki_danych_logowania = [
-    slownik_danych_logowania_karolinka,
-    slownik_danych_logowania_biuro
+    slownik_danych_logowania_1,
+    slownik_danych_logowania_2
     ]
 
 ilosc_oltow = len(lista_na_slowniki_danych_logowania)
