@@ -49,16 +49,18 @@ In separate view we can see results in time.
 
 The gui is presented in Polish.
 
+## Config file:
+config.py is the place, where we can set our credentials.
 
 ## Methods to improve:
 - Implementing async or threading with queue
 - Finding another library instead of tkinter, which support multiproccessing
 - Saving results in database and analyzing signal in long time. 
 
-<img src="https://github.com/Qbason/Olt_Manager_Connected_With_Lms/blob/master/imgs/1.png" width="300"/>
+<img src="https://github.com/Qbason/Olt_Manager_Connected_With_Lms/blob/master/imgs/1.png" width="500"/>
 
 
-<img src="https://github.com/Qbason/Olt_Manager_Connected_With_Lms/blob/master/imgs/2.png" width="300"/>
+<img src="https://github.com/Qbason/Olt_Manager_Connected_With_Lms/blob/master/imgs/2.png" width="500"/>
 
 
-<img src="https://github.com/Qbason/Olt_Manager_Connected_With_Lms/blob/master/imgs/3.png" width="300"/>
+<img src="https://github.com/Qbason/Olt_Manager_Connected_With_Lms/blob/master/imgs/3.png" width="500"/>
