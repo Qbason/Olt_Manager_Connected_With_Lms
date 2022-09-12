@@ -47,7 +47,7 @@ In separate view we can see results in time.
 3. Ordering clients by clicking on columns and finding the best, the worst rx/tx signal
 4. Grouping by place and street then calculating the best, the worst, the average rx/tx signal and doing ordering them by user. (by clicking on specific column)
 
-The gui is presented in Polish.
+
 
 ## Config file:
 config.py is the place, where we can set our credentials.
@@ -58,11 +58,12 @@ config.py is the place, where we can set our credentials.
 - Saving results in database and analyzing signal in long time. 
 
 ## View
+The gui is presented in Polish.
 
-<img src="https://github.com/Qbason/Olt_Manager_Connected_With_Lms/blob/master/imgs/1.png" width="500"/>
-
-
-<img src="https://github.com/Qbason/Olt_Manager_Connected_With_Lms/blob/master/imgs/2.png" width="500"/>
+<img src="https://github.com/Qbason/Olt_Manager_Connected_With_Lms/blob/master/imgs/1.png" width="600"/>
 
 
-<img src="https://github.com/Qbason/Olt_Manager_Connected_With_Lms/blob/master/imgs/3.png" width="500"/>
+<img src="https://github.com/Qbason/Olt_Manager_Connected_With_Lms/blob/master/imgs/2.png" width="600"/>
+
+
+<img src="https://github.com/Qbason/Olt_Manager_Connected_With_Lms/blob/master/imgs/3.png" width="600"/>
