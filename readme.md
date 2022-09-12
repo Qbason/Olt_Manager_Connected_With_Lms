@@ -57,6 +57,8 @@ config.py is the place, where we can set our credentials.
 - Finding another library instead of tkinter, which support multiproccessing
 - Saving results in database and analyzing signal in long time. 
 
+## View
+
 <img src="https://github.com/Qbason/Olt_Manager_Connected_With_Lms/blob/master/imgs/1.png" width="500"/>
 
 
